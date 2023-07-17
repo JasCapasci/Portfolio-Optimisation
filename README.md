@@ -1,4 +1,4 @@
-# Project Name: Portfolio Optimization - Minimum Variance Portfolio
+# Project Name: Portfolio Optimization
 
 This project focuses on generating the Minimum Variance Portfolio by applying portfolio optimization techniques to a diverse selection of Indian stocks. The project provides a deeper understanding of concepts such as CAPM, Sharpe ratio, and the practical application of quantitative finance in the industry.
 
